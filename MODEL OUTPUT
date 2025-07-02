@@ -1,0 +1,8 @@
+MODEL OUTPUTS:
+🔹 Linear Regression:
+  Mean of predictions: 22.532806324110677
+  Std deviation of predictions: 9.188011545278178
+
+🔹 Decision Tree Regressor:
+  Mean of predictions: 22.532806324110677
+  Std deviation of predictions: 9.188011545278203
